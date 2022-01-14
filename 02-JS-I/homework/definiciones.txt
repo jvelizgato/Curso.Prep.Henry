@@ -1,0 +1,17 @@
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Variables : 
+es un espacio de memoria asignado para almacenar un dato, es decir la memoria de la pc es como un cuaderno 
+con hojas en blanco y cada hoja es un espacio de la memoria donde podemos utilizar para escribir (almacenar un dato).
+* Strings :
+es un tipo de dato, como un video juego los video juegos son de diferentes tipos ejemplo "arcade", 
+entonces Strings es de tipo de dato caracter o texto no se puede realizar operaciones matematicas  con estos tipos de datos
+*Funciones (argumentos, return) :
+son porciones del programa que realizan una tarea especifica y devuelven el resultado de esta tarea, es decir cuando en casa
+a se reparte las tareas domesticas a uno le toca la limpieza, a otro lavar la vajilla, etc y cada uno entrega el resultado.
+* Declaraciones if :
+es una sentencia de control condicional, es un flujo que permite seguir un camino en base a la respuesta verdadero o 
+falso como resultado de la condicion,  ejemplo si tu edad es 21 entonces puedes obtener tu licencia de conducir si no tienes esa edad 
+no obtienes la licencia.
+* Valores booleanos (true, false) :
+funcionan como las variables con la diferencia que solo pueden ser true (verdadero) o false (falso)
