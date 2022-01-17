@@ -1,0 +1,6 @@
+* FOR : es un bucle de control donde tiene tres parametros para control del bucle, variable inicio de valor, condicion sobre esa variable
+        y el incremento de la variable, miestras la condicion se cumpla se ejecuta el codigo dentro del bucle y emite su respuesta.
+* &&, ||, ! :
+    -> && : es un operador logico de comparacion si ambos son verdad el resultado es verdad, de lo contrario el resultado es falso.
+    -> || : es un operador logico solo es verdad si uno de ellos es verdad, en el resto de casos es falso.
+    -> !  : es la negación , niega todo lo que antecede a este operador.
